@@ -1,2 +1,1 @@
-# csharp-algorithms
-Csharp - Algorithms
+# Csharp - Algorithms
